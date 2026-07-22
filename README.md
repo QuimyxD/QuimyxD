@@ -7,6 +7,7 @@
 - 💻 Apasionada por la Inteligencia Artificial y el Machine Learning.
 - 📊 Interesada en Ciencia de Datos, Ingeniería de Datos y Analítica.
 - 🤖 Me encanta desarrollar soluciones utilizando programación e IA.
+- 📉 Alto conocimiento en Redes Neuronales.
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
 - 🔬 Participante en concursos científicos, hackathons y eventos tecnológicos.
 - 👥 Integrante de **SPIE Student Chapter** y **Beedevelopers**.
@@ -24,13 +25,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
-### Desarrollo
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+### IDEs y Herramientas
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
