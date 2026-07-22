@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Quimey
 
-🎓 Estudiante de **Ingeniería en Datos e Inteligencia Artificial** apasionada por la tecnología, la inteligencia artificial y el análisis de datos. Me gusta aprender constantemente, participar en proyectos innovadores y enfrentar retos que me permitan crecer tanto personal como profesionalmente.
+🎓 Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Universidad de Guanajuato** apasionada por la tecnología, la inteligencia artificial y el análisis de datos. Me gusta aprender constantemente, participar en proyectos innovadores y enfrentar retos que me permitan crecer tanto personal como profesionalmente.
 
 ## 🚀 Sobre mí
 
@@ -47,18 +47,6 @@
 
 ---
 
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏆 Logros
 
 - 🥇 Participación en Hackathons.
@@ -73,14 +61,12 @@
 
 ## 📫 Contacto
 
-📧 Correo: **quimyprin@gmail.com** / **cq.azuarayanez@ugto.mx**
+📧 Correo: **cq.azuarayanez@ugto.mx** / **quimyprin@gmail.com**
 
 💼 LinkedIn: **https://www.linkedin.com/in/cecil-quimey-azuara-ya%C3%B1ez-9234313b8/**
 
 🌐 GitHub: **https://github.com/QuimyxD**
 
 ---
-
-## 💜
 
 > *"La mejor forma de predecir el futuro es creándolo."* — Alan Kay
