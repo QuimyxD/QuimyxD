@@ -1,20 +1,20 @@
 # ¡Hola! 👋 Soy Quimey
 
-🎓 Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Universidad de Guanajuato** apasionada por la tecnología, la inteligencia artificial y el análisis de datos. Me gusta aprender constantemente, participar en proyectos innovadores y enfrentar retos que me permitan crecer tanto personal como profesionalmente.
+Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Universidad de Guanajuato** apasionada por la tecnología, la inteligencia artificial y el análisis de datos. Me gusta aprender constantemente, participar en proyectos innovadores y enfrentar retos que me permitan crecer tanto personal como profesionalmente.
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 💻 Apasionada por la Inteligencia Artificial y el Machine Learning.
-- 📊 Interesada en Ciencia de Datos, Ingeniería de Datos y Analítica.
-- 🤖 Me encanta desarrollar soluciones utilizando programación e IA.
-- 📉 Alto conocimiento en Redes Neuronales.
-- 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
-- 🔬 Participante en concursos científicos, hackathons y eventos tecnológicos.
-- 👥 Integrante de **SPIE Student Chapter** y **Beedevelopers**.
+- Apasionada por la Inteligencia Artificial y el Machine Learning.
+- Interesada en Ciencia de Datos, Ingeniería de Datos y Analítica.
+- Me encanta desarrollar soluciones utilizando programación e IA.
+- Alto conocimiento en Redes Neuronales.
+- Siempre aprendiendo nuevas tecnologías y mejores prácticas.
+- Participante en concursos científicos, divulgación científica, hackathons y eventos tecnológicos.
+- Miembro activa de **SPIE Student Chapter** y **Beedevelopers**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Deep Learning
 - Computer Vision
@@ -49,25 +49,25 @@
 
 ---
 
-## 🏆 Logros
+## Logros
 
-- 🥇 Participación en Hackathons.
-- 🧠 Concursos científicos.
-- 🎤 Eventos de divulgación científica.
-- 🌎 Participación en Informatrix.
-- 💡 Desarrollo de proyectos enfocados en IA y datos.
-- 🧾 Experiencia laboral como responsable de administración de una empresa pequeña.
-- 📚 Nivel B2 de inglés y nivel A1 de Francés.
+- Participación en Hackathons.
+- Concursos científicos.
+- Eventos de divulgación científica.
+- Participación en Informatrix.
+- Desarrollo de proyectos enfocados en IA y datos.
+- Experiencia laboral como responsable de administración de una empresa pequeña.
+- Nivel B2 de inglés y nivel A1 de Francés.
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-📧 Correo: **cq.azuarayanez@ugto.mx** / **quimyprin@gmail.com**
+Correo: **cq.azuarayanez@ugto.mx** / **quimyprin@gmail.com**
 
-💼 LinkedIn: **https://www.linkedin.com/in/cecil-quimey-azuara-ya%C3%B1ez-9234313b8/**
+LinkedIn: **https://www.linkedin.com/in/cecil-quimey-azuara-ya%C3%B1ez-9234313b8/**
 
-🌐 GitHub: **https://github.com/QuimyxD**
+GitHub: **https://github.com/QuimyxD**
 
 ---
 
