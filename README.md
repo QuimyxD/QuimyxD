@@ -62,7 +62,7 @@ Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Univers
 - Participación en Informatrix.
 - Desarrollo de proyectos enfocados en IA y datos.
 - Experiencia laboral como responsable de administración de una empresa pequeña.
-- Nivel B2 de inglés y nivel A1 de Francés.
+- Nivel C1 de inglés y nivel A2 de Francés.
 
 ---
 
