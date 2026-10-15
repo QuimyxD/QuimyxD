@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Quimey
+# ¡Hola, Soy Quimey!
 
 Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Universidad de Guanajuato** apasionada por la tecnología, la inteligencia artificial y el análisis de datos. Me gusta aprender constantemente, participar en proyectos innovadores y enfrentar retos que me permitan crecer tanto personal como profesionalmente.
 
@@ -19,8 +19,12 @@ Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Univers
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java_(POO)-ED8B00?style=for-the-badge&logo=openid&logoColor=white)
+![C](https://img.shields.io/badge/C_(POO)-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Inteligencia Artificial y Ciencia de Datos
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -29,6 +33,7 @@ Estudiante de **Ingeniería en Datos e Inteligencia Artificial** de la **Univers
 
 ### IDEs y Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
